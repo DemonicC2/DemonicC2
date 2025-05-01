@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Redirect Website</title>
+  <title>Simple Website</title>
   <style>
     body {
       background-color: #222;
@@ -32,7 +32,7 @@
 
   <script>
     function redirectToDemonicChill() {
-      window.location.href = "https://www.youtube.com/@DemonicChill2";  // Redirect to DemonicChill's YouTube channel
+      window.location.href = "https://www.youtube.com/@DemonicChill2";
     }
   </script>
 </body>
